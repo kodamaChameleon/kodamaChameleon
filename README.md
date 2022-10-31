@@ -37,6 +37,6 @@ Languages and Tools:
 <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-Languages and Tools:
+Profile Statistics:
 ------------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kodamaChameleon&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodamaChameleon&theme=tokyonight)
