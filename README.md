@@ -8,7 +8,7 @@
   |_| \_\  |_____|  |____/   |_| |_|  |_|   \__/   |_|  |_| |_| EST. 2022
  
 ```
-![My_Image](/pics/samurai.GIF)  
+![My_Image](/pics/samurai.GIF)
 ![](https://visitor-badge.laobi.icu/badge?page_id=kodamaChameleon.kodamaChameleon) [![Github](https://img.shields.io/github/followers/kodamaChameleon?label=Follow&style=social)](https://github.com/kodamaChameleon)
 
 Definitions
