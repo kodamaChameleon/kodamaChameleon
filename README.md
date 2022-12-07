@@ -19,7 +19,8 @@ Definitions
 About
 ------------
 - I am a Cybersecurity Systems Analyst
-- Currently building a Security Technical Implementaiton Guides (STIG) management tool (see https://public.cyber.mil/stigs/)
+- Sanjuro is live! This PowerShell based repository seeks to simplify routine cybersecurity fork for the Information System Security Officer (ISSO). Expect more features to follow.
+- Kaguya, a python implementation for Security Technical Implementaiton Guides (STIG) management (see https://public.cyber.mil/stigs/), is still under development.
 
 Languages and Tools:
 ------------
