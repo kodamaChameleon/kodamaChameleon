@@ -41,3 +41,8 @@ Languages and Tools:
 Profile Statistics:
 ------------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kodamaChameleon&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodamaChameleon&theme=tokyonight)
+
+Contact Info
+------------
+
+<img src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png" alt="AWS" height="40" style="vertical-align:top; margin:4px"> Find me on my discord server, <a href="https://discord.gg/rm5c5mCnBM">KodamaChameleon</a>
