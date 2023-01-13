@@ -40,7 +40,7 @@ Languages and Tools:
 
 Profile Statistics:
 ------------
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kodamaChameleon&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodamaChameleon&theme=tokyonight)
+![GitHub stats](https://kaguya-gold.vercel.app/api?username=kodamaChameleon&show_icons=true&theme=tokyonight) ![Top Langs](https://kaguya-gold.vercel.app/api/top-langs/?username=kodamaChameleon&theme=tokyonight)
 
 Contact Info
 ------------
