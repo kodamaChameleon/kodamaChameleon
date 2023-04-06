@@ -8,7 +8,7 @@
   |_| \_\  |_____|  |____/   |_| |_|  |_|   \__/   |_|  |_| |_| EST. 2022
  
 ```
-![My_Image](/pics/samurai.GIF)  
+![My_Image](/pics/kodamaChameleon.GIF)  
 ![](https://visitor-badge.laobi.icu/badge?page_id=kodamaChameleon.kodamaChameleon) [![Github](https://img.shields.io/github/followers/kodamaChameleon?label=Follow&style=social)](https://github.com/kodamaChameleon)
 
 Definitions
@@ -18,9 +18,7 @@ Definitions
 
 About
 ------------
-- I am a Cybersecurity Systems Analyst
-- Sanjuro is live! This PowerShell based repository seeks to simplify routine cybersecurity for the Information System Security Officer (ISSO). Expect more features to follow. (5 December 2022)
-- Kaguya is live! This python implementation assist in managing Security Technical Implementaiton Guides (STIG) content (see https://public.cyber.mil/stigs/). (15 December 2022)
+- I am a Cybersecurity Systems Analyst dedicated to advancing the fields of Cyber Threat Intelligence (CTI) and Open Source Intelligence (OSINT).
 
 Languages and Tools:
 ------------
