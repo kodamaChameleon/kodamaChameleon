@@ -8,7 +8,8 @@
   |_| \_\  |_____|  |____/   |_| |_|  |_|   \__/   |_|  |_| |_| EST. 2022
  
 ```
-![My_Image](/pics/kodamaChameleon.GIF)  
+<img src="/pics/kodamaChameleon.gif" width="300">  
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=kodamaChameleon.kodamaChameleon) [![Github](https://img.shields.io/github/followers/kodamaChameleon?label=Follow&style=social)](https://github.com/kodamaChameleon)
 
 Definitions
@@ -39,5 +40,7 @@ Languages and Tools:
 
 Contact Info
 ------------
-
-<img src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png" alt="AWS" height="40" style="vertical-align:top; margin:4px"> Find me on my discord server, <a href="https://discord.gg/rm5c5mCnBM">KodamaChameleon</a>
+<p align="center">
+<a href="https://discord.gg/rm5c5mCnBM"><img src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png" alt="Discord" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://twitter.com/kodamaChameleon"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
