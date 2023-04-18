@@ -19,7 +19,7 @@ Definitions
 
 About
 ------------
-- I am a Cybersecurity Systems Analyst dedicated to advancing the fields of Cyber Threat Intelligence (CTI) and Open Source Intelligence (OSINT).
+- I am a Cybersecurity Systems Analyst dedicated to advancing the fields of Cyber Threat Intelligence (CTI).
 
 Languages and Tools:
 ------------
