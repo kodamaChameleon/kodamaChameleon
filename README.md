@@ -18,6 +18,7 @@ Definitions
 About
 ------------
 - I am a Cybersecurity Systems Analyst dedicated to advancing the fields of Cyber Threat Intelligence (CTI).
+- Kind of into Maltego lately ✨✨✨
 
 Languages and Tools:
 ------------
