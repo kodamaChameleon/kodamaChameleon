@@ -17,8 +17,9 @@ Definitions
 
 About
 ------------
-- I am a Cybersecurity Systems Analyst dedicated to advancing the fields of Cyber Threat Intelligence (CTI).
-- Kind of into Maltego lately ✨✨✨
+- I am a Cybersecurity Systems Analyst dedicated to advancing the fields of Cyber Threat Intelligence (CTI). 🕵️‍♂️
+- So Maltego is pretty cool!! ✨✨✨
+- Contemplating the mysteries of (🚨 buzz word alert 🚨) AI and ML
 
 Languages and Tools:
 ------------
@@ -39,7 +40,7 @@ Languages and Tools:
    <img src="https://www.maltego.com/img/maltego-logo/Maltego-Logo-Compact-Greyblue.svg" alt="Maltego" height="40" style="vertical-align:top; margin:4px">
    <img src="https://www.splunk.com/content/dam/splunk2/images/social/D2E-social.jpg" alt="Splunk" height="40" style="vertical-align:top; margin:4px">
 </p>
-
+Experimented in a lot of languages and tools. Definitely most familiar with Python. Must be some sort of reptilian connection.
 
 Contact Info
 ------------
