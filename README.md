@@ -20,6 +20,7 @@ About
 - I am a Cybersecurity Systems Analyst dedicated to advancing the fields of Cyber Threat Intelligence (CTI). 🕵️‍♂️
 - So Maltego is pretty cool!! ✨✨✨
 - Contemplating the mysteries of (🚨 buzz word alert 🚨) AI and ML
+- Building API's around cool OSINT tools!
 
 Languages and Tools:
 ------------
