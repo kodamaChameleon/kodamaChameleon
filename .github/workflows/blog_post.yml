@@ -1,0 +1,49 @@
+name: Fetch WordPress Blog Preview
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Runs every 6 hours
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  fetch-blog-preview:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Fetch WordPress blog data
+      - name: Fetch WordPress Blog Post
+        run: |
+          curl -s "https://kodamachameleon.com/wp-json/wp/v2/posts?per_page=1" > latest-post.json
+          echo "Latest blog post data fetched"
+
+      # Process and create a preview (Markdown format)
+      - name: Generate Preview
+        run: |
+          TITLE=$(jq -r '.[0].title.rendered' latest-post.json)
+          EXCERPT=$(jq -r '.[0].excerpt.rendered' latest-post.json)
+          LINK=$(jq -r '.[0].link' latest-post.json)
+          echo "### Latest Blog Post" > BLOG_PREVIEW.md
+          echo "- **Title:** $TITLE" >> BLOG_PREVIEW.md
+          echo "- **Excerpt:** $EXCERPT" >> BLOG_PREVIEW.md
+          echo "- [Read more]($LINK)" >> BLOG_PREVIEW.md
+          echo "Blog preview created in BLOG_PREVIEW.md"
+
+      # Commit and push changes to the 'output' branch
+      - name: Commit and Push Changes to 'output' branch
+        run: |
+          # Check out the 'output' branch
+          git fetch origin output:output
+          git checkout output
+
+          # Add the new preview file and commit the changes
+          git add BLOG_PREVIEW.md
+          git commit -m "Update blog preview"
+          
+          # Push to the 'output' branch
+          git push origin output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
