@@ -35,6 +35,8 @@ Experimented in a lot of languages and tools. Definitely most familiar with Pyth
    <code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
 </p>
 
+![Contributions Snake](https://github.com/kodamaChameleon/kodamaChameleon/blob/output/github-contribution-grid-snake.svg)
+
 ## 🌟 Contact Info
 Follow me on X (formerly Twitter), hop on Discord, or email direct.
 
