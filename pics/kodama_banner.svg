@@ -6,7 +6,7 @@
     font-family="monospace"
     font-size="13px"
     stroke-linecap="round"
-    style="background-color: #333; width: 100%; height: auto;"
+    style="background-color: #555; width: 100%; height: auto;"
     preserveAspectRatio="xMidYMid meet"
 >
   <path d="M 32,28 L 32,52" fill="none" stroke="black" />
