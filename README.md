@@ -16,11 +16,11 @@
 - Contemplating the mysteries of (🚨 buzz word alert 🚨) *AI* and *ML*
 - 🔎 Building API's around cool OSINT tools!
 
-## 📜 Definitions
+## 🗃️ Random
 **Kodama** -- (木霊, 木魂 or 木魅) spirits in Japanese folklore that inhabit trees.  
 **Chameleon** -- a small slow-moving Old World lizard with a prehensile tail, long extensible tongue, protruding eyes that rotate independently, and a highly developed ability to change color.
 
-## 💻 Languages and Tools:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Language and Tools</b>
 Experimented in a lot of languages and tools. Definitely most familiar with Python. Must be some sort of reptilian connection.
 <p align="center">
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
