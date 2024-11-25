@@ -1,8 +1,7 @@
 <h3 align="center">
-   <img src="/pics/kodama_wheel_500px.gif" width="300" alt="Kodama Chameleon Logo">
+   <img src="/pics/kodama_wheel_500px.gif" width="300" alt="Kodama Chameleon Logo"><br>
+   <img src="https://raw.githubusercontent.com/kodamaChameleon/kodamaChameleon/refs/heads/main/pics/kodama_banner.svg" height="64">
 </h3>
-
-![banner](pics/kodama_banner.svg)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kodamaChameleon.kodamaChameleon) [![Github](https://img.shields.io/github/followers/kodamaChameleon?label=Follow&style=social)](https://github.com/kodamaChameleon)
 
