@@ -9,7 +9,7 @@
     preserveAspectRatio="xMidYMid meet"
     style="width: 100%; height: auto;">
   <!-- Transparent background -->
-  <rect x="-100" y="0" width="100%" height="100%" fill="rgba(126,126,126,0.25)" />
+  <rect x="-100" y="0" width="100%" height="100%" fill="rgba(126,126,126,0.05)" />
 >
   <path d="M 32,28 L 32,52" fill="none" stroke="black" />
   <path d="M 36,52 L 52,52" fill="none" stroke="black" />
