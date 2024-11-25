@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg"
     version="1.1"
-    viewBox="0 0 344 60"
+    viewBox="-100 0 544 60"
     class="diagram"
     text-anchor="middle"
     font-family="monospace"
@@ -9,7 +9,7 @@
     preserveAspectRatio="xMidYMid meet"
     style="width: 100%; height: auto;">
   <!-- Transparent background -->
-  <rect x="0" y="0" width="100%" height="100%" fill="rgba(126,126,126,0.5)" />
+  <rect x="-100" y="0" width="100%" height="100%" fill="rgba(126,126,126,0.5)" />
 >
   <path d="M 32,28 L 32,52" fill="none" stroke="black" />
   <path d="M 36,52 L 52,52" fill="none" stroke="black" />
