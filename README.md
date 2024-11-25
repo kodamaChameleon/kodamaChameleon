@@ -2,12 +2,8 @@
    <img src="/pics/kodama_wheel_500px.gif" width="300" alt="Kodama Chameleon Logo">
 </h3>
 
-```
-   __ __        __               
-  / //_/__  ___/ /__ ___ _  ___ _
- / ,< / _ \/ _  / _ `/  ' \/ _ `/
-/_/|_|\___/\_,_/\_,_/_/_/_/\_,_/ EST. 2022
-```
+![banner](pics/kodama_banner.svg)
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=kodamaChameleon.kodamaChameleon) [![Github](https://img.shields.io/github/followers/kodamaChameleon?label=Follow&style=social)](https://github.com/kodamaChameleon)
 
 ## 🌱 About
