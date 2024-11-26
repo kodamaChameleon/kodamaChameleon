@@ -43,6 +43,6 @@ Follow me on X (formerly Twitter), hop on Discord, or email direct.
 
 <p align="center">
 <a href="https://discord.gg/D59w9g6Ptr"><img src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png" alt="Discord" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="https://x.com/kodamaChameleon"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="Twitter" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://x.com/kodamaChameleon"><img src="pics/x-logo.svg" alt="X" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="mailto:contact@kodamachameleon.com"><img src="https://img.icons8.com/?size=2x&id=12580&format=png" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
