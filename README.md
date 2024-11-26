@@ -1,7 +1,13 @@
 <h3 align="center">
    <img src="/pics/kodama_wheel_500px.gif" width="300" alt="Kodama Chameleon Logo"><br>
-   <img src="https://raw.githubusercontent.com/kodamaChameleon/kodamaChameleon/refs/heads/main/pics/kodama_banner.svg">
+  
 </h3>
+
+<picture>
+  <source srcset="pics/banner-dark.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="pics/banner-light.svg" media="(prefers-color-scheme: light)">
+  <img src="pics/banner-light.svg" alt="Logo" height="92">
+</picture>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kodamaChameleon.kodamaChameleon) [![Github](https://img.shields.io/github/followers/kodamaChameleon?label=Follow&style=social)](https://github.com/kodamaChameleon)
 
