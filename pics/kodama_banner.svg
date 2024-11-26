@@ -53,4 +53,20 @@
     <text x="240" y="48">_,_</text>
     <text x="304" y="52">EST. 2022</text>
   </g>
+
+<!-- Styles -->
+  <style>
+    /* Default (light mode) */
+    .line {
+      stroke: black;
+      fill: none;
+    }
+
+    /* Dark mode */
+    @media (prefers-color-scheme: dark) {
+      .line {
+        stroke: white;
+      }
+    }
+  </style>
 </svg>
