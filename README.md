@@ -4,9 +4,6 @@
   <img src="pics/banner-light.svg" alt="Logo" height="92">
 </picture>
 
-
-![Coding SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=00aa49&repeat=false&duration=1500&width=1000&lines=<=================================O)
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=kodamaChameleon.kodamaChameleon) [![Github](https://img.shields.io/github/followers/kodamaChameleon?label=Follow&style=social)](https://github.com/kodamaChameleon)
 
 ## 🌱 About
