@@ -1,5 +1,4 @@
 <p>
-  <img src="pics/favicon.svg" alt="Logo" height="92" style="display: inline-block; vertical-align: middle;">
   <picture style="display: inline-block; vertical-align: middle;">
     <source srcset="pics/banner-dark.svg" media="(prefers-color-scheme: dark)">
     <source srcset="pics/banner-light.svg" media="(prefers-color-scheme: light)">
