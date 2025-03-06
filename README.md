@@ -7,14 +7,10 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=kodamaChameleon.kodamaChameleon) [![Github](https://img.shields.io/github/followers/kodamaChameleon?label=Follow&style=social)](https://github.com/kodamaChameleon)
 
 ## 🌱 About
-- I am a Cybersecurity Systems Analyst dedicated to advancing the fields of **Cyber Threat Intelligence (CTI)**. 🕵️‍♂️
-- So Maltego is pretty cool!! ✨✨✨
-- Contemplating the mysteries of (🚨 buzz word alert 🚨) *AI* and *ML*
-- 🔎 Building API's around cool OSINT tools!
+**Cyber Threat Intelligence (CTI)** analyst on a quest to protect vulnerable people as a practical demonstration of a personal faith. Actively involved in the open-source community developing _OSINT_ tools and other intel capabilities.
 
-## 🗃️ Random
-**Kodama** -- (木霊, 木魂 or 木魅) spirits in Japanese folklore that inhabit trees.  
-**Chameleon** -- a small slow-moving Old World lizard with a prehensile tail, long extensible tongue, protruding eyes that rotate independently, and a highly developed ability to change color.
+- _Kodama_-- (木霊, 木魂 or 木魅) spirits in Japanese folklore that inhabit trees.  
+- _Chameleon_ -- a small slow-moving Old World lizard with a prehensile tail, long extensible tongue, protruding eyes that rotate independently, and a highly developed ability to change color.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Language and Tools</b>
 Experimented in a lot of languages and tools. Definitely most familiar with Python. Must be some sort of reptilian connection.
