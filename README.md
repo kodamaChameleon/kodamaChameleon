@@ -1,8 +1,12 @@
-<picture>
-  <source srcset="pics/banner-dark.svg" media="(prefers-color-scheme: dark)">
-  <source srcset="pics/banner-light.svg" media="(prefers-color-scheme: light)">
-  <img src="pics/banner-light.svg" alt="Logo" height="92">
-</picture>
+<p>
+  <img src="pics/favicon.svg" alt="Logo" height="92" style="display: inline-block; vertical-align: middle;">
+  <picture style="display: inline-block; vertical-align: middle;">
+    <source srcset="pics/banner-dark.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="pics/banner-light.svg" media="(prefers-color-scheme: light)">
+    <img src="pics/banner-light.svg" alt="Banner" height="92">
+  </picture>
+</p>
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kodamaChameleon.kodamaChameleon) [![Github](https://img.shields.io/github/followers/kodamaChameleon?label=Follow&style=social)](https://github.com/kodamaChameleon)
 
