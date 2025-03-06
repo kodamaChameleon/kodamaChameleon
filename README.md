@@ -7,10 +7,11 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=kodamaChameleon.kodamaChameleon) [![Github](https://img.shields.io/github/followers/kodamaChameleon?label=Follow&style=social)](https://github.com/kodamaChameleon)
 
 ## 🌱 About
-**Cyber Threat Intelligence (CTI)** analyst on a quest to protect vulnerable people as a practical demonstration of a personal faith. Actively involved in the open-source community developing _OSINT_ tools and other intel capabilities.
+**Cyber Threat Intelligence (CTI)** analyst on a quest to protect vulnerable people as a practical demonstration of a personal faith. Actively involved in the open-source community developing _OSINT_ tools and other intel capabilities. Checkout the blog at [kodamachameleon.com](https://kodamachameleon.com).
 
 - _Kodama_-- (木霊, 木魂 or 木魅) spirits in Japanese folklore that inhabit trees.  
 - _Chameleon_ -- a small slow-moving Old World lizard with a prehensile tail, long extensible tongue, protruding eyes that rotate independently, and a highly developed ability to change color.
+- _Maasai_ -- The semi-nomadic ethnic group of people who living in Kenya and Tanzania know for their distinctive clothing, artisanry, and culture.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Language and Tools</b>
 Experimented in a lot of languages and tools. Definitely most familiar with Python. Must be some sort of reptilian connection.
@@ -30,7 +31,7 @@ Experimented in a lot of languages and tools. Definitely most familiar with Pyth
 ![Contributions Snake](https://github.com/kodamaChameleon/kodamaChameleon/blob/output/github-contribution-grid-snake.svg)
 
 ## 🌟 Contact Info
-Follow me on X (formerly Twitter), hop on Discord, or email direct.
+Follow me on Blue Sky, hop on Discord, or email direct.
 
 <p align="center">
 	<a href="https://bsky.app/profile/kodamachameleon.com"><img src="https://github.com/bluesky-social/social-app/blob/main/bskyembed/assets/logo.svg" alt="BlueSky" height="40" style="vertical-align:top; margin:4px"></a>
