@@ -1,8 +1,3 @@
-<h3 align="center">
-   <img src="/pics/kodama_wheel_500px.gif" width="300" alt="Kodama Chameleon Logo"><br>
-  
-</h3>
-
 <picture>
   <source srcset="pics/banner-dark.svg" media="(prefers-color-scheme: dark)">
   <source srcset="pics/banner-light.svg" media="(prefers-color-scheme: light)">
