@@ -1,9 +1,5 @@
 <p>
-  <picture style="display: inline-block; vertical-align: middle;">
-    <source srcset="pics/banner-dark.svg" media="(prefers-color-scheme: dark)">
-    <source srcset="pics/banner-light.svg" media="(prefers-color-scheme: light)">
-    <img src="pics/banner-light.svg" alt="Banner" height="92">
-  </picture>
+    <img src="pics/banner.svg" alt="Banner" height="140">
 </p>
 
 
