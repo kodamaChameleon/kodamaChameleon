@@ -37,3 +37,8 @@ Find me under the BlueSky, gather on Discord, or send a direct email.
 	<a href="https://discord.gg/D59w9g6Ptr"><img src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png" alt="Discord" height="40" style="vertical-align:top; margin:4px"></a>
 	<a href="mailto:contact@kodamachameleon.com"><img src="pics/email.svg" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+
+## ❤️ Support
+<p align="center">
+    <a href="https://buymeacoffee.com/kodamachameleon"><img src="https://kodamachameleon.com/wp-content/uploads/2025/05/bmc-logo.png" alt="Buy Me a Coffee" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
