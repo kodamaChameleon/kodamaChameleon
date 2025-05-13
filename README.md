@@ -40,5 +40,5 @@ Find me under the BlueSky, gather on Discord, or send a direct email.
 
 ## ❤️ Support
 <p align="center">
-    <a href="https://buymeacoffee.com/kodamachameleon"><img src="https://kodamachameleon.com/wp-content/uploads/2025/05/bmc-logo.png" alt="Buy Me a Coffee" height="40" style="vertical-align:top; margin:4px"></a>
+    <a href="https://buymeacoffee.com/kodamachameleon"><img src="https://kodamachameleon.com/wp-content/uploads/2025/05/bmc-logo-1.png" alt="Buy Me a Coffee" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
