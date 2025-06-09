@@ -1,5 +1,5 @@
 <p>
-    <img src="pics/banner.svg" alt="Banner" height="140">
+    <img src="pics/banner.svg" alt="Kodama Banner" height="140">
 </p>
 
 
