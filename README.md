@@ -1,6 +1,6 @@
 <p>
-  <img src="pics/favicon.png" alt="Kodama Logo" height="140"> &nbsp;
-  <img src="pics/banner_alt.svg" alt="Kodama Banner" height="140">
+  <img src="pics/favicon.png" alt="Kodama Logo" width="20%"> &nbsp;
+  <img src="pics/banner_alt.svg" alt="Kodama Banner" width="70%">
 </p>
 
 
