@@ -30,11 +30,11 @@ Experimented in a lot of languages and tools. Definitely most familiar with Pyth
 ![Contributions Snake](https://github.com/kodamaChameleon/kodamaChameleon/blob/output/github-contribution-grid-snake.svg)
 
 ## 🐾 Contact Info
-Consider following me on BlueSky or Mastodon, catch me chilling in one of several InfoSec Discord servers, or reach out directly via email.
+Consider following me on Mastodon, catch me chilling in one of several InfoSec Discord servers, or reach out directly via email.
 
 <p align="center">
-	<a href="https://bsky.app/profile/kodamachameleon.com"><img src="https://github.com/bluesky-social/social-app/blob/main/bskyembed/assets/logo.svg" alt="BlueSky" height="40" style="vertical-align:top; margin:4px"></a>
 	<a href="https://infosec.exchange/@kodamachameleon"><img src="https://joinmastodon.org/logos/logo-purple.svg" alt="Mastodon" height="40" style="vertical-align:top; margin:4px"></a>
+	<a href="#"><img src="https://kodamachameleon.com/wp-content/themes/kodamachameleon/assets/icons/discord.svg" alt="Discord" height="40" style="vertical-align:top; margin:4px"></a>
 	<a href="mailto:contact@kodamachameleon.com"><img src="pics/email.svg" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
