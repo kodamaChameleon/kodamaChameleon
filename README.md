@@ -37,8 +37,3 @@ Consider following me on Mastodon, catch me chilling in one of several InfoSec D
 	<a href="#"><img src="https://kodamachameleon.com/wp-content/themes/kodamachameleon/assets/icons/discord.svg" alt="Discord" height="40" style="vertical-align:top; margin:4px"></a>
 	<a href="mailto:contact@kodamachameleon.com"><img src="pics/email.svg" alt="Email" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
-## ❤️ Support
-<p align="center">
-    <a href="https://buymeacoffee.com/kodamachameleon"><img src="https://kodamachameleon.com/wp-content/uploads/2025/05/bmc-logo-1.png" alt="Buy Me a Coffee" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
